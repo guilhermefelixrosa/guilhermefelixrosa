@@ -21,6 +21,6 @@ I'm studying Computer Engineering at Instituto Federal do Triângulo Mineiro. <i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gui-Fe-Ro&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Fe-Ro&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermefelixrosa&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefelixrosa&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
